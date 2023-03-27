@@ -2,10 +2,10 @@
 title: Overview
 ---
 
-# ARC API
+# Loopback4 Microservice Catalog
 
 {%
-   include-markdown "./README.md"
+   include-markdown "../README.md"
    start="<!-- docs-index-start -->"
    end='<!-- docs-index-end -->'
 %}
