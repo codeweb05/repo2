@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[services/notification-service/src/providers/notification-filter.service.ts:13](https://github.com/codeweb05/repo1/blob/ea19add/services/notification-service/src/providers/notification-filter.service.ts#L13)
+[services/notification-service/src/providers/notification-filter.service.ts:13](https://github.com/codeweb05/repo1/blob/a4cf318/services/notification-service/src/providers/notification-filter.service.ts#L13)
 
 ## Methods
 
@@ -54,4 +54,4 @@ Provider.value
 
 #### Defined in
 
-[services/notification-service/src/providers/notification-filter.service.ts:17](https://github.com/codeweb05/repo1/blob/ea19add/services/notification-service/src/providers/notification-filter.service.ts#L17)
+[services/notification-service/src/providers/notification-filter.service.ts:17](https://github.com/codeweb05/repo1/blob/a4cf318/services/notification-service/src/providers/notification-filter.service.ts#L17)

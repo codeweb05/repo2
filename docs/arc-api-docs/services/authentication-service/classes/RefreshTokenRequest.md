@@ -36,7 +36,7 @@ Model.constructor
 
 #### Defined in
 
-[services/authentication-service/src/models/refresh-token-request.model.ts:15](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/refresh-token-request.model.ts#L15)
+[services/authentication-service/src/models/refresh-token-request.model.ts:15](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/refresh-token-request.model.ts#L15)
 
 ## Properties
 
@@ -46,4 +46,4 @@ Model.constructor
 
 #### Defined in
 
-[services/authentication-service/src/models/refresh-token-request.model.ts:13](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/refresh-token-request.model.ts#L13)
+[services/authentication-service/src/models/refresh-token-request.model.ts:13](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/refresh-token-request.model.ts#L13)

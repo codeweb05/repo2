@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[types.ts:42](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L42)
+[types.ts:42](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L42)
 
 ## Variables
 
@@ -55,4 +55,4 @@ Default options for the component
 
 #### Defined in
 
-[types.ts:21](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L21)
+[types.ts:21](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L21)

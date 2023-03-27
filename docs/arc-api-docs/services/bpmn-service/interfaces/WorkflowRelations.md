@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[services/bpmn-service/src/models/workflow.model.ts:77](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/models/workflow.model.ts#L77)
+[services/bpmn-service/src/models/workflow.model.ts:77](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/models/workflow.model.ts#L77)

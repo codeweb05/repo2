@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/mixins/types.ts:4](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/mixins/types.ts#L4)
+[src/mixins/types.ts:4](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/mixins/types.ts#L4)
 
 ___
 
@@ -33,4 +33,4 @@ ___
 
 #### Defined in
 
-[src/mixins/types.ts:5](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/mixins/types.ts#L5)
+[src/mixins/types.ts:5](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/mixins/types.ts#L5)

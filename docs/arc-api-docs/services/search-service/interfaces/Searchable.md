@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[services/search-service/src/types.ts:20](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/types.ts#L20)
+[services/search-service/src/types.ts:20](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/types.ts#L20)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[services/search-service/src/types.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/types.ts#L19)
+[services/search-service/src/types.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/types.ts#L19)

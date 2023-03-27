@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/components/logger-extension/component.ts:11](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/components/logger-extension/component.ts#L11)
+[src/components/logger-extension/component.ts:11](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/components/logger-extension/component.ts#L11)
 
 ## Properties
 
@@ -38,4 +38,4 @@ Component.providers
 
 #### Defined in
 
-[src/components/logger-extension/component.ts:10](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/components/logger-extension/component.ts#L10)
+[src/components/logger-extension/component.ts:10](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/components/logger-extension/component.ts#L10)

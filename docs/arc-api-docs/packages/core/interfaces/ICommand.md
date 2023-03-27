@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/command/command.interface.ts:7](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/command/command.interface.ts#L7)
+[src/command/command.interface.ts:7](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/command/command.interface.ts#L7)
 
 ## Methods
 
@@ -34,4 +34,4 @@
 
 #### Defined in
 
-[src/command/command.interface.ts:8](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/command/command.interface.ts#L8)
+[src/command/command.interface.ts:8](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/command/command.interface.ts#L8)

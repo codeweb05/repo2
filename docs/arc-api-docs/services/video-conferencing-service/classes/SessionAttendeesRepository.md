@@ -35,4 +35,4 @@ DefaultCrudRepository&lt;
 
 #### Defined in
 
-[services/video-conferencing-service/src/repositories/session-attendees.repository.ts:14](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/repositories/session-attendees.repository.ts#L14)
+[services/video-conferencing-service/src/repositories/session-attendees.repository.ts:14](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/repositories/session-attendees.repository.ts#L14)

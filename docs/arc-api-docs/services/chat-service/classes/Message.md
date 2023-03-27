@@ -49,7 +49,7 @@ UserModifiableEntity.constructor
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:70](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L70)
+[services/chat-service/src/models/message.model.ts:70](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L70)
 
 ## Properties
 
@@ -59,7 +59,7 @@ UserModifiableEntity.constructor
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:24](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L24)
+[services/chat-service/src/models/message.model.ts:24](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L24)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:31](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L31)
+[services/chat-service/src/models/message.model.ts:31](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L31)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:38](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L38)
+[services/chat-service/src/models/message.model.ts:38](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L38)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:18](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L18)
+[services/chat-service/src/models/message.model.ts:18](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L18)
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:58](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L58)
+[services/chat-service/src/models/message.model.ts:58](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L58)
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:68](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L68)
+[services/chat-service/src/models/message.model.ts:68](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L68)
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:65](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L65)
+[services/chat-service/src/models/message.model.ts:65](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L65)
 
 ___
 
@@ -185,7 +185,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:44](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L44)
+[services/chat-service/src/models/message.model.ts:44](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L44)
 
 ___
 
@@ -195,7 +195,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:49](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L49)
+[services/chat-service/src/models/message.model.ts:49](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L49)
 
 ___
 
@@ -205,4 +205,4 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:55](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L55)
+[services/chat-service/src/models/message.model.ts:55](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L55)

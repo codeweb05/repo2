@@ -44,7 +44,7 @@ Default options for the component
 
 #### Defined in
 
-[types.ts:17](https://github.com/codeweb05/repo1/blob/ea19add/services/payment-service/src/types.ts#L17)
+[types.ts:17](https://github.com/codeweb05/repo1/blob/a4cf318/services/payment-service/src/types.ts#L17)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-[keys.ts:17](https://github.com/codeweb05/repo1/blob/ea19add/services/payment-service/src/keys.ts#L17)
+[keys.ts:17](https://github.com/codeweb05/repo1/blob/a4cf318/services/payment-service/src/keys.ts#L17)

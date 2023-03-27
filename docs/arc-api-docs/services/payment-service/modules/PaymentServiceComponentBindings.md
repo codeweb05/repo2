@@ -18,4 +18,4 @@ Binding keys used by this component.
 
 #### Defined in
 
-[keys.ts:12](https://github.com/codeweb05/repo1/blob/ea19add/services/payment-service/src/keys.ts#L12)
+[keys.ts:12](https://github.com/codeweb05/repo1/blob/a4cf318/services/payment-service/src/keys.ts#L12)

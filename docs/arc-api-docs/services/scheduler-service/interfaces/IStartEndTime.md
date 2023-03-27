@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[services/scheduler-service/src/models/free-busy.dto.ts:28](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/models/free-busy.dto.ts#L28)
+[services/scheduler-service/src/models/free-busy.dto.ts:28](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/models/free-busy.dto.ts#L28)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[services/scheduler-service/src/models/free-busy.dto.ts:27](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/models/free-busy.dto.ts#L27)
+[services/scheduler-service/src/models/free-busy.dto.ts:27](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/models/free-busy.dto.ts#L27)

@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/mixins/types.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/mixins/types.ts#L19)
+[src/mixins/types.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/mixins/types.ts#L19)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/mixins/types.ts:14](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/mixins/types.ts#L14)
+[src/mixins/types.ts:14](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/mixins/types.ts#L14)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/mixins/types.ts:20](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/mixins/types.ts#L20)
+[src/mixins/types.ts:20](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/mixins/types.ts#L20)
 
 ___
 
@@ -63,4 +63,4 @@ ___
 
 #### Defined in
 
-[src/mixins/types.ts:15](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/mixins/types.ts#L15)
+[src/mixins/types.ts:15](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/mixins/types.ts#L15)

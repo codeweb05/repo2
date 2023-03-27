@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[services/search-service/src/types.ts:54](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/types.ts#L54)
+[services/search-service/src/types.ts:54](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/types.ts#L54)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[services/search-service/src/types.ts:55](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/types.ts#L55)
+[services/search-service/src/types.ts:55](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/types.ts#L55)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[services/search-service/src/types.ts:53](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/types.ts#L53)
+[services/search-service/src/types.ts:53](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/types.ts#L53)

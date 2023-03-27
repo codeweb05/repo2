@@ -38,4 +38,4 @@ Provider.value
 
 #### Defined in
 
-[services/authentication-service/src/providers/azure-post-verify.provider.ts:11](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/providers/azure-post-verify.provider.ts#L11)
+[services/authentication-service/src/providers/azure-post-verify.provider.ts:11](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/providers/azure-post-verify.provider.ts#L11)

@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[types.ts:27](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L27)
+[types.ts:27](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L27)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[types.ts:28](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L28)
+[types.ts:28](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L28)
 
 ## Methods
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[types.ts:29](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L29)
+[types.ts:29](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L29)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-[types.ts:30](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L30)
+[types.ts:30](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L30)

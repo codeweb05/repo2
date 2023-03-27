@@ -41,7 +41,7 @@ DefaultCrudRepository&lt;
 
 #### Defined in
 
-[services/notification-service/src/repositories/notification.repository.ts:26](https://github.com/codeweb05/repo1/blob/ea19add/services/notification-service/src/repositories/notification.repository.ts#L26)
+[services/notification-service/src/repositories/notification.repository.ts:26](https://github.com/codeweb05/repo1/blob/a4cf318/services/notification-service/src/repositories/notification.repository.ts#L26)
 
 ## Properties
 
@@ -51,7 +51,7 @@ DefaultCrudRepository&lt;
 
 #### Defined in
 
-[services/notification-service/src/repositories/notification.repository.ts:30](https://github.com/codeweb05/repo1/blob/ea19add/services/notification-service/src/repositories/notification.repository.ts#L30)
+[services/notification-service/src/repositories/notification.repository.ts:30](https://github.com/codeweb05/repo1/blob/a4cf318/services/notification-service/src/repositories/notification.repository.ts#L30)
 
 ___
 
@@ -61,4 +61,4 @@ ___
 
 #### Defined in
 
-[services/notification-service/src/repositories/notification.repository.ts:21](https://github.com/codeweb05/repo1/blob/ea19add/services/notification-service/src/repositories/notification.repository.ts#L21)
+[services/notification-service/src/repositories/notification.repository.ts:21](https://github.com/codeweb05/repo1/blob/a4cf318/services/notification-service/src/repositories/notification.repository.ts#L21)

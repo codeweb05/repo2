@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[services/bpmn-service/src/types/types.ts:18](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/types/types.ts#L18)
+[services/bpmn-service/src/types/types.ts:18](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/types/types.ts#L18)
 
 ## Methods
 
@@ -52,4 +52,4 @@
 
 #### Defined in
 
-[services/bpmn-service/src/types/types.ts:17](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/types/types.ts#L17)
+[services/bpmn-service/src/types/types.ts:17](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/types/types.ts#L17)

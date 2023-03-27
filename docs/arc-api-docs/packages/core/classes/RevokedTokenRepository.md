@@ -32,4 +32,4 @@ DefaultKeyValueRepository&lt;RevokedToken\&gt;.constructor
 
 #### Defined in
 
-[src/components/bearer-verifier/repositories/revoked-token.repository.ts:12](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/components/bearer-verifier/repositories/revoked-token.repository.ts#L12)
+[src/components/bearer-verifier/repositories/revoked-token.repository.ts:12](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/components/bearer-verifier/repositories/revoked-token.repository.ts#L12)

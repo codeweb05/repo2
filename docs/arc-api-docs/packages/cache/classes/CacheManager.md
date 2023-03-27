@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[mixins/cache.mixin.ts:27](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/mixins/cache.mixin.ts#L27)
+[mixins/cache.mixin.ts:27](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/mixins/cache.mixin.ts#L27)
 
 ## Methods
 
@@ -60,4 +60,4 @@
 
 #### Defined in
 
-[mixins/cache.mixin.ts:30](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/mixins/cache.mixin.ts#L30)
+[mixins/cache.mixin.ts:30](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/mixins/cache.mixin.ts#L30)

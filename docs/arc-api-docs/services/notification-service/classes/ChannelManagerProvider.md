@@ -42,4 +42,4 @@ Provider.value
 
 #### Defined in
 
-[services/notification-service/src/providers/channel-manager.service.ts:10](https://github.com/codeweb05/repo1/blob/ea19add/services/notification-service/src/providers/channel-manager.service.ts#L10)
+[services/notification-service/src/providers/channel-manager.service.ts:10](https://github.com/codeweb05/repo1/blob/a4cf318/services/notification-service/src/providers/channel-manager.service.ts#L10)

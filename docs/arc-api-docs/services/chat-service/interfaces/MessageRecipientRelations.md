@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[services/chat-service/src/models/message-recipient.model.ts:74](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message-recipient.model.ts#L74)
+[services/chat-service/src/models/message-recipient.model.ts:74](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message-recipient.model.ts#L74)

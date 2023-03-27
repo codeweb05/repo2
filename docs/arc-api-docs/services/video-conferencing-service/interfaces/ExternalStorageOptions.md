@@ -34,4 +34,4 @@ name of the external storage, For example : 'AWSS3', 'AZURE'
 
 #### Defined in
 
-[services/video-conferencing-service/src/types.ts:108](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/types.ts#L108)
+[services/video-conferencing-service/src/types.ts:108](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/types.ts#L108)

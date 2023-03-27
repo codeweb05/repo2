@@ -27,7 +27,7 @@ IServiceConfig.useCustomSequence
 
 #### Defined in
 
-[services/bpmn-service/src/types/types.ts:22](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/types/types.ts#L22)
+[services/bpmn-service/src/types/types.ts:22](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/types/types.ts#L22)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[services/bpmn-service/src/types/types.ts:23](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/types/types.ts#L23)
+[services/bpmn-service/src/types/types.ts:23](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/types/types.ts#L23)

@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[services/scheduler-service/src/models/attachment.model.ts:83](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/models/attachment.model.ts#L83)
+[services/scheduler-service/src/models/attachment.model.ts:83](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/models/attachment.model.ts#L83)

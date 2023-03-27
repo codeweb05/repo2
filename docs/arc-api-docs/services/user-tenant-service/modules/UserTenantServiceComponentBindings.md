@@ -18,4 +18,4 @@ Binding keys used by this component.
 
 #### Defined in
 
-[services/user-tenant-service/src/keys.ts:12](https://github.com/codeweb05/repo1/blob/ea19add/services/user-tenant-service/src/keys.ts#L12)
+[services/user-tenant-service/src/keys.ts:12](https://github.com/codeweb05/repo1/blob/a4cf318/services/user-tenant-service/src/keys.ts#L12)

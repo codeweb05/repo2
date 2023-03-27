@@ -38,4 +38,4 @@ Provider.value
 
 #### Defined in
 
-[services/authentication-service/src/providers/instagram-post-verify.provider.ts:14](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/providers/instagram-post-verify.provider.ts#L14)
+[services/authentication-service/src/providers/instagram-post-verify.provider.ts:14](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/providers/instagram-post-verify.provider.ts#L14)

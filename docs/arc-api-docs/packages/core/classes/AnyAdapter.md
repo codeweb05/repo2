@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[src/adapters/any-adapter.ts:13](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/adapters/any-adapter.ts#L13)
+[src/adapters/any-adapter.ts:13](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/adapters/any-adapter.ts#L13)
 
 ___
 
@@ -69,4 +69,4 @@ ___
 
 #### Defined in
 
-[src/adapters/any-adapter.ts:10](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/adapters/any-adapter.ts#L10)
+[src/adapters/any-adapter.ts:10](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/adapters/any-adapter.ts#L10)

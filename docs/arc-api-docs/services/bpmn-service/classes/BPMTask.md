@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[services/bpmn-service/src/types/bpm-task.ts:8](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/types/bpm-task.ts#L8)
+[services/bpmn-service/src/types/bpm-task.ts:8](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/types/bpm-task.ts#L8)
 
 ## Properties
 
@@ -62,7 +62,7 @@
 
 #### Defined in
 
-[services/bpmn-service/src/types/bpm-task.ts:14](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/types/bpm-task.ts#L14)
+[services/bpmn-service/src/types/bpm-task.ts:14](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/types/bpm-task.ts#L14)
 
 ## Methods
 
@@ -87,4 +87,4 @@
 
 #### Defined in
 
-[services/bpmn-service/src/types/bpm-task.ts:16](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/types/bpm-task.ts#L16)
+[services/bpmn-service/src/types/bpm-task.ts:16](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/types/bpm-task.ts#L16)

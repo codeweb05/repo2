@@ -54,7 +54,7 @@ DefaultUserModifyCrudRepository&lt;
 
 #### Defined in
 
-[services/bpmn-service/src/repositories/workflow.repository.ts:30](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/repositories/workflow.repository.ts#L30)
+[services/bpmn-service/src/repositories/workflow.repository.ts:30](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/repositories/workflow.repository.ts#L30)
 
 ## Properties
 
@@ -68,7 +68,7 @@ DefaultUserModifyCrudRepository.getCurrentUser
 
 #### Defined in
 
-[services/bpmn-service/src/repositories/workflow.repository.ts:36](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/repositories/workflow.repository.ts#L36)
+[services/bpmn-service/src/repositories/workflow.repository.ts:36](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/repositories/workflow.repository.ts#L36)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[services/bpmn-service/src/repositories/workflow.repository.ts:34](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/repositories/workflow.repository.ts#L34)
+[services/bpmn-service/src/repositories/workflow.repository.ts:34](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/repositories/workflow.repository.ts#L34)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[services/bpmn-service/src/repositories/workflow.repository.ts:25](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/repositories/workflow.repository.ts#L25)
+[services/bpmn-service/src/repositories/workflow.repository.ts:25](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/repositories/workflow.repository.ts#L25)
 
 ## Methods
 

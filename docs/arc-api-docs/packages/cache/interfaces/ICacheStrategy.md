@@ -46,7 +46,7 @@ Interface defining the component's options object
 
 #### Defined in
 
-[types.ts:14](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L14)
+[types.ts:14](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L14)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[strategies/cache-strategy.ts:9](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/cache-strategy.ts#L9)
+[strategies/cache-strategy.ts:9](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/cache-strategy.ts#L9)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[types.ts:15](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L15)
+[types.ts:15](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L15)
 
 ## Methods
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[strategies/cache-strategy.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/cache-strategy.ts#L19)
+[strategies/cache-strategy.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/cache-strategy.ts#L19)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[strategies/cache-strategy.ts:14](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/cache-strategy.ts#L14)
+[strategies/cache-strategy.ts:14](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/cache-strategy.ts#L14)
 
 ___
 
@@ -141,4 +141,4 @@ ___
 
 #### Defined in
 
-[strategies/cache-strategy.ts:10](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/cache-strategy.ts#L10)
+[strategies/cache-strategy.ts:10](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/cache-strategy.ts#L10)

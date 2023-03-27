@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/types.ts:9](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/types.ts#L9)
+[src/types.ts:9](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/types.ts#L9)

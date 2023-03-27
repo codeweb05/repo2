@@ -51,7 +51,7 @@ DefaultUserModifyCrudRepository&lt;
 
 #### Defined in
 
-[services/scheduler-service/src/repositories/event-attendee-view.repository.ts:21](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/repositories/event-attendee-view.repository.ts#L21)
+[services/scheduler-service/src/repositories/event-attendee-view.repository.ts:21](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/repositories/event-attendee-view.repository.ts#L21)
 
 ## Properties
 
@@ -65,7 +65,7 @@ DefaultUserModifyCrudRepository.getCurrentUser
 
 #### Defined in
 
-[services/scheduler-service/src/repositories/event-attendee-view.repository.ts:25](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/repositories/event-attendee-view.repository.ts#L25)
+[services/scheduler-service/src/repositories/event-attendee-view.repository.ts:25](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/repositories/event-attendee-view.repository.ts#L25)
 
 ## Methods
 

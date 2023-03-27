@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[services/user-tenant-service/src/models/role.model.ts:67](https://github.com/codeweb05/repo1/blob/ea19add/services/user-tenant-service/src/models/role.model.ts#L67)
+[services/user-tenant-service/src/models/role.model.ts:67](https://github.com/codeweb05/repo1/blob/a4cf318/services/user-tenant-service/src/models/role.model.ts#L67)

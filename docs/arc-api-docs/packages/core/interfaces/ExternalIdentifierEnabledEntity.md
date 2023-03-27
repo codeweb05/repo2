@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[src/models/ext-identifier-enabled-entity.interface.ts:6](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/models/ext-identifier-enabled-entity.interface.ts#L6)
+[src/models/ext-identifier-enabled-entity.interface.ts:6](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/models/ext-identifier-enabled-entity.interface.ts#L6)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/models/ext-identifier-enabled-entity.interface.ts:7](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/models/ext-identifier-enabled-entity.interface.ts#L7)
+[src/models/ext-identifier-enabled-entity.interface.ts:7](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/models/ext-identifier-enabled-entity.interface.ts#L7)

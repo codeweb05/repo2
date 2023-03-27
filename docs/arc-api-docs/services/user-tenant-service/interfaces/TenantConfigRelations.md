@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[services/user-tenant-service/src/models/tenant-config.model.ts:48](https://github.com/codeweb05/repo1/blob/ea19add/services/user-tenant-service/src/models/tenant-config.model.ts#L48)
+[services/user-tenant-service/src/models/tenant-config.model.ts:48](https://github.com/codeweb05/repo1/blob/a4cf318/services/user-tenant-service/src/models/tenant-config.model.ts#L48)

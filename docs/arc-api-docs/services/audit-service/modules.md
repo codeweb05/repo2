@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[services/audit-service/src/types.ts:15](https://github.com/codeweb05/repo1/blob/ea19add/services/audit-service/src/types.ts#L15)
+[services/audit-service/src/types.ts:15](https://github.com/codeweb05/repo1/blob/a4cf318/services/audit-service/src/types.ts#L15)

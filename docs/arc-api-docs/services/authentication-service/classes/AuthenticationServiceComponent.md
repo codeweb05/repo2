@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:104](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L104)
+[services/authentication-service/src/component.ts:104](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L104)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:106](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L106)
+[services/authentication-service/src/component.ts:106](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L106)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:112](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L112)
+[services/authentication-service/src/component.ts:112](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L112)
 
 ___
 
@@ -82,7 +82,7 @@ Component.bindings
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:168](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L168)
+[services/authentication-service/src/component.ts:168](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L168)
 
 ___
 
@@ -98,7 +98,7 @@ Component.controllers
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:185](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L185)
+[services/authentication-service/src/component.ts:185](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L185)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:108](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L108)
+[services/authentication-service/src/component.ts:108](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L108)
 
 ___
 
@@ -121,7 +121,7 @@ via `app.model()` API.
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:180](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L180)
+[services/authentication-service/src/component.ts:180](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L180)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:110](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L110)
+[services/authentication-service/src/component.ts:110](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L110)
 
 ___
 
@@ -145,7 +145,7 @@ Component.providers
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:166](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L166)
+[services/authentication-service/src/component.ts:166](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L166)
 
 ___
 
@@ -158,7 +158,7 @@ via `app.repository()` API.
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:174](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L174)
+[services/authentication-service/src/component.ts:174](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L174)
 
 ## Methods
 
@@ -172,7 +172,7 @@ via `app.repository()` API.
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:196](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L196)
+[services/authentication-service/src/component.ts:196](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L196)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:306](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L306)
+[services/authentication-service/src/component.ts:306](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L306)
 
 ___
 
@@ -200,7 +200,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:314](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L314)
+[services/authentication-service/src/component.ts:314](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L314)
 
 ___
 
@@ -216,4 +216,4 @@ Setup ServiceSequence by default if no other sequnce provided
 
 #### Defined in
 
-[services/authentication-service/src/component.ts:192](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/component.ts#L192)
+[services/authentication-service/src/component.ts:192](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/component.ts#L192)

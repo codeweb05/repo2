@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[strategies/redis/types.ts:8](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/types.ts#L8)
+[strategies/redis/types.ts:8](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/types.ts#L8)
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 #### Defined in
 
-[types.ts:34](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L34)
+[types.ts:34](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L34)

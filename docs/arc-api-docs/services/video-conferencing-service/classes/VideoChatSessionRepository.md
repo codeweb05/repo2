@@ -50,7 +50,7 @@ DefaultUserModifyCrudRepository&lt;
 
 #### Defined in
 
-[services/video-conferencing-service/src/repositories/video-chat-session.repository.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/repositories/video-chat-session.repository.ts#L19)
+[services/video-conferencing-service/src/repositories/video-chat-session.repository.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/repositories/video-chat-session.repository.ts#L19)
 
 ## Properties
 
@@ -64,7 +64,7 @@ DefaultUserModifyCrudRepository.getCurrentUser
 
 #### Defined in
 
-[services/video-conferencing-service/src/repositories/video-chat-session.repository.ts:23](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/repositories/video-chat-session.repository.ts#L23)
+[services/video-conferencing-service/src/repositories/video-chat-session.repository.ts:23](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/repositories/video-chat-session.repository.ts#L23)
 
 ## Methods
 

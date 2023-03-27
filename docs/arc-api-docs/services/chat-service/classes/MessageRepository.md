@@ -58,7 +58,7 @@ DefaultUserModifyCrudRepository&lt;
 
 #### Defined in
 
-[services/chat-service/src/repositories/message.repository.ts:40](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/message.repository.ts#L40)
+[services/chat-service/src/repositories/message.repository.ts:40](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/message.repository.ts#L40)
 
 ## Properties
 
@@ -72,7 +72,7 @@ DefaultUserModifyCrudRepository.getCurrentUser
 
 #### Defined in
 
-[services/chat-service/src/repositories/message.repository.ts:43](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/message.repository.ts#L43)
+[services/chat-service/src/repositories/message.repository.ts:43](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/message.repository.ts#L43)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/repositories/message.repository.ts:47](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/message.repository.ts#L47)
+[services/chat-service/src/repositories/message.repository.ts:47](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/message.repository.ts#L47)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/repositories/message.repository.ts:25](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/message.repository.ts#L25)
+[services/chat-service/src/repositories/message.repository.ts:25](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/message.repository.ts#L25)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/repositories/message.repository.ts:49](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/message.repository.ts#L49)
+[services/chat-service/src/repositories/message.repository.ts:49](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/message.repository.ts#L49)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/repositories/message.repository.ts:35](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/message.repository.ts#L35)
+[services/chat-service/src/repositories/message.repository.ts:35](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/message.repository.ts#L35)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/repositories/message.repository.ts:30](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/message.repository.ts#L30)
+[services/chat-service/src/repositories/message.repository.ts:30](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/message.repository.ts#L30)
 
 ## Methods
 

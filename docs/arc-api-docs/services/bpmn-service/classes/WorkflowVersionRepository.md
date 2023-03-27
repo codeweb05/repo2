@@ -42,7 +42,7 @@ DefaultCrudRepository&lt;
 
 #### Defined in
 
-[services/bpmn-service/src/repositories/workflow-version.repository.ts:25](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/repositories/workflow-version.repository.ts#L25)
+[services/bpmn-service/src/repositories/workflow-version.repository.ts:25](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/repositories/workflow-version.repository.ts#L25)
 
 ## Properties
 
@@ -52,7 +52,7 @@ DefaultCrudRepository&lt;
 
 #### Defined in
 
-[services/bpmn-service/src/repositories/workflow-version.repository.ts:21](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/repositories/workflow-version.repository.ts#L21)
+[services/bpmn-service/src/repositories/workflow-version.repository.ts:21](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/repositories/workflow-version.repository.ts#L21)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[services/bpmn-service/src/repositories/workflow-version.repository.ts:29](https://github.com/codeweb05/repo1/blob/ea19add/services/bpmn-service/src/repositories/workflow-version.repository.ts#L29)
+[services/bpmn-service/src/repositories/workflow-version.repository.ts:29](https://github.com/codeweb05/repo1/blob/a4cf318/services/bpmn-service/src/repositories/workflow-version.repository.ts#L29)

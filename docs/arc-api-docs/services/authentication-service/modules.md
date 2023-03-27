@@ -191,7 +191,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/providers/types.ts:208](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/providers/types.ts#L208)
+[services/authentication-service/src/providers/types.ts:208](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/providers/types.ts#L208)
 
 ___
 
@@ -222,7 +222,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/providers/types.ts:212](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/providers/types.ts#L212)
+[services/authentication-service/src/providers/types.ts:212](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/providers/types.ts#L212)
 
 ___
 
@@ -232,7 +232,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/role.model.ts:45](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/role.model.ts#L45)
+[services/authentication-service/src/models/role.model.ts:45](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/role.model.ts#L45)
 
 ___
 
@@ -242,7 +242,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/tenant.model.ts:75](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/tenant.model.ts#L75)
+[services/authentication-service/src/models/tenant.model.ts:75](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/tenant.model.ts#L75)
 
 ___
 
@@ -252,7 +252,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/user-credentials.model.ts:70](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/user-credentials.model.ts#L70)
+[services/authentication-service/src/models/user-credentials.model.ts:70](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/user-credentials.model.ts#L70)
 
 ___
 
@@ -262,7 +262,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/user-tenant.model.ts:82](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/user-tenant.model.ts#L82)
+[services/authentication-service/src/models/user-tenant.model.ts:82](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/user-tenant.model.ts#L82)
 
 ___
 
@@ -272,7 +272,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/user.model.ts:128](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/user.model.ts#L128)
+[services/authentication-service/src/models/user.model.ts:128](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/user.model.ts#L128)
 
 ## Variables
 
@@ -282,7 +282,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/types.ts:20](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/types.ts#L20)
+[services/authentication-service/src/types.ts:20](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/types.ts#L20)
 
 ___
 
@@ -292,7 +292,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/types.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/types.ts#L19)
+[services/authentication-service/src/types.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/types.ts#L19)
 
 ___
 
@@ -302,7 +302,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/index.ts:52](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/index.ts#L52)
+[services/authentication-service/src/models/index.ts:52](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/index.ts#L52)
 
 ___
 
@@ -312,7 +312,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/repositories/index.ts:33](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/repositories/index.ts#L33)
+[services/authentication-service/src/repositories/index.ts:33](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/repositories/index.ts#L33)
 
 ___
 
@@ -322,4 +322,4 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/services/index.ts:10](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/services/index.ts#L10)
+[services/authentication-service/src/services/index.ts:10](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/services/index.ts#L10)

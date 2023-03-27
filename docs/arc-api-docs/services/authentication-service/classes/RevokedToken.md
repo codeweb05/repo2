@@ -36,7 +36,7 @@ Entity.constructor
 
 #### Defined in
 
-[services/authentication-service/src/models/revoked-token.model.ts:16](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/revoked-token.model.ts#L16)
+[services/authentication-service/src/models/revoked-token.model.ts:16](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/revoked-token.model.ts#L16)
 
 ## Properties
 
@@ -46,4 +46,4 @@ Entity.constructor
 
 #### Defined in
 
-[services/authentication-service/src/models/revoked-token.model.ts:14](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/revoked-token.model.ts#L14)
+[services/authentication-service/src/models/revoked-token.model.ts:14](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/revoked-token.model.ts#L14)

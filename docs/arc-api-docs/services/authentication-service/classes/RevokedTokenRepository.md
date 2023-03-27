@@ -32,4 +32,4 @@ DefaultKeyValueRepository&lt;RevokedToken\&gt;.constructor
 
 #### Defined in
 
-[services/authentication-service/src/repositories/revoked-token.repository.ts:12](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/repositories/revoked-token.repository.ts#L12)
+[services/authentication-service/src/repositories/revoked-token.repository.ts:12](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/repositories/revoked-token.repository.ts#L12)

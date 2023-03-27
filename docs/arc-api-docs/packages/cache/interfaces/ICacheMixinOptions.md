@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[types.ts:35](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L35)
+[types.ts:35](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L35)
 
 ___
 
@@ -33,4 +33,4 @@ ___
 
 #### Defined in
 
-[types.ts:34](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/types.ts#L34)
+[types.ts:34](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/types.ts#L34)

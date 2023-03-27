@@ -37,7 +37,7 @@ Model.constructor
 
 #### Defined in
 
-[services/search-service/src/models/search-result-base.model.ts:21](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/models/search-result-base.model.ts#L21)
+[services/search-service/src/models/search-result-base.model.ts:21](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/models/search-result-base.model.ts#L21)
 
 ## Properties
 
@@ -47,7 +47,7 @@ Model.constructor
 
 #### Defined in
 
-[services/search-service/src/models/search-result-base.model.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/models/search-result-base.model.ts#L19)
+[services/search-service/src/models/search-result-base.model.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/models/search-result-base.model.ts#L19)
 
 ___
 
@@ -57,4 +57,4 @@ ___
 
 #### Defined in
 
-[services/search-service/src/models/search-result-base.model.ts:13](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/models/search-result-base.model.ts#L13)
+[services/search-service/src/models/search-result-base.model.ts:13](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/models/search-result-base.model.ts#L13)

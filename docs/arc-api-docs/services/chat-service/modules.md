@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[services/chat-service/src/models/attachment-file.model.ts:54](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/attachment-file.model.ts#L54)
+[services/chat-service/src/models/attachment-file.model.ts:54](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/attachment-file.model.ts#L54)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message-recipient.model.ts:77](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message-recipient.model.ts#L77)
+[services/chat-service/src/models/message-recipient.model.ts:77](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message-recipient.model.ts#L77)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:81](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L81)
+[services/chat-service/src/models/message.model.ts:81](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L81)

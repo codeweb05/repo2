@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[providers/stripe/types.ts:42](https://github.com/codeweb05/repo1/blob/ea19add/services/payment-service/src/providers/stripe/types.ts#L42)
+[providers/stripe/types.ts:42](https://github.com/codeweb05/repo1/blob/a4cf318/services/payment-service/src/providers/stripe/types.ts#L42)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[providers/stripe/types.ts:45](https://github.com/codeweb05/repo1/blob/ea19add/services/payment-service/src/providers/stripe/types.ts#L45)
+[providers/stripe/types.ts:45](https://github.com/codeweb05/repo1/blob/a4cf318/services/payment-service/src/providers/stripe/types.ts#L45)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[providers/stripe/types.ts:44](https://github.com/codeweb05/repo1/blob/ea19add/services/payment-service/src/providers/stripe/types.ts#L44)
+[providers/stripe/types.ts:44](https://github.com/codeweb05/repo1/blob/a4cf318/services/payment-service/src/providers/stripe/types.ts#L44)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[providers/stripe/types.ts:43](https://github.com/codeweb05/repo1/blob/ea19add/services/payment-service/src/providers/stripe/types.ts#L43)
+[providers/stripe/types.ts:43](https://github.com/codeweb05/repo1/blob/a4cf318/services/payment-service/src/providers/stripe/types.ts#L43)

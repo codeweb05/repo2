@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[services/scheduler-service/src/models/subscription.model.ts:114](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/models/subscription.model.ts#L114)
+[services/scheduler-service/src/models/subscription.model.ts:114](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/models/subscription.model.ts#L114)

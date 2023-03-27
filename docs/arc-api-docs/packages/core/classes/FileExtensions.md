@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/constants/file-extensions.ts:6](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/constants/file-extensions.ts#L6)
+[src/constants/file-extensions.ts:6](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/constants/file-extensions.ts#L6)

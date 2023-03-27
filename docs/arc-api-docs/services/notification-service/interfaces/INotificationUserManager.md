@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[services/notification-service/src/types.ts:17](https://github.com/codeweb05/repo1/blob/ea19add/services/notification-service/src/types.ts#L17)
+[services/notification-service/src/types.ts:17](https://github.com/codeweb05/repo1/blob/a4cf318/services/notification-service/src/types.ts#L17)

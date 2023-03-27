@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[src/adapters/i-adapter.ts:9](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/adapters/i-adapter.ts#L9)
+[src/adapters/i-adapter.ts:9](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/adapters/i-adapter.ts#L9)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[src/adapters/i-adapter.ts:8](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/adapters/i-adapter.ts#L8)
+[src/adapters/i-adapter.ts:8](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/adapters/i-adapter.ts#L8)

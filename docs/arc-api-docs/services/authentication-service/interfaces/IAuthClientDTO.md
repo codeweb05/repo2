@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/types.ts:40](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/types.ts#L40)
+[services/authentication-service/src/types.ts:40](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/types.ts#L40)
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/types.ts:41](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/types.ts#L41)
+[services/authentication-service/src/types.ts:41](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/types.ts#L41)

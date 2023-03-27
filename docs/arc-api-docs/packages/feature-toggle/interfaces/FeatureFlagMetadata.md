@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[feature-toggle/src/types.ts:8](https://github.com/codeweb05/repo1/blob/ea19add/packages/feature-toggle/src/types.ts#L8)
+[feature-toggle/src/types.ts:8](https://github.com/codeweb05/repo1/blob/a4cf318/packages/feature-toggle/src/types.ts#L8)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[feature-toggle/src/types.ts:9](https://github.com/codeweb05/repo1/blob/ea19add/packages/feature-toggle/src/types.ts#L9)
+[feature-toggle/src/types.ts:9](https://github.com/codeweb05/repo1/blob/a4cf318/packages/feature-toggle/src/types.ts#L9)

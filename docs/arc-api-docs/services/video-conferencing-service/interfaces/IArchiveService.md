@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[services/video-conferencing-service/src/types.ts:174](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/types.ts#L174)
+[services/video-conferencing-service/src/types.ts:174](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/types.ts#L174)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[services/video-conferencing-service/src/types.ts:172](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/types.ts#L172)
+[services/video-conferencing-service/src/types.ts:172](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/types.ts#L172)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[services/video-conferencing-service/src/types.ts:173](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/types.ts#L173)
+[services/video-conferencing-service/src/types.ts:173](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/types.ts#L173)
 
 ___
 
@@ -83,4 +83,4 @@ ___
 
 #### Defined in
 
-[services/video-conferencing-service/src/types.ts:175](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/types.ts#L175)
+[services/video-conferencing-service/src/types.ts:175](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/types.ts#L175)

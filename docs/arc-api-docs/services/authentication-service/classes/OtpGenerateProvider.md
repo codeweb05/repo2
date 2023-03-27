@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/providers/otp-generate.provider.ts:16](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/providers/otp-generate.provider.ts#L16)
+[services/authentication-service/src/providers/otp-generate.provider.ts:16](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/providers/otp-generate.provider.ts#L16)
 
 ## Properties
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/providers/otp-generate.provider.ts:16](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/providers/otp-generate.provider.ts#L16)
+[services/authentication-service/src/providers/otp-generate.provider.ts:16](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/providers/otp-generate.provider.ts#L16)
 
 ## Methods
 
@@ -62,4 +62,4 @@ Provider.value
 
 #### Defined in
 
-[services/authentication-service/src/providers/otp-generate.provider.ts:17](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/providers/otp-generate.provider.ts#L17)
+[services/authentication-service/src/providers/otp-generate.provider.ts:17](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/providers/otp-generate.provider.ts#L17)

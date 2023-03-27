@@ -54,7 +54,7 @@ Interface defining the component's options object
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:25](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L25)
+[strategies/redis/redis-cache-strategy.ts:25](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L25)
 
 ## Properties
 
@@ -68,7 +68,7 @@ Interface defining the component's options object
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:22](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L22)
+[strategies/redis/redis-cache-strategy.ts:22](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L22)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:21](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L21)
+[strategies/redis/redis-cache-strategy.ts:21](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L21)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:23](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L23)
+[strategies/redis/redis-cache-strategy.ts:23](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L23)
 
 ## Methods
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:91](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L91)
+[strategies/redis/redis-cache-strategy.ts:91](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L91)
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:66](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L66)
+[strategies/redis/redis-cache-strategy.ts:66](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L66)
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:97](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L97)
+[strategies/redis/redis-cache-strategy.ts:97](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L97)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:47](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L47)
+[strategies/redis/redis-cache-strategy.ts:47](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L47)
 
 ___
 
@@ -214,4 +214,4 @@ ___
 
 #### Defined in
 
-[strategies/redis/redis-cache-strategy.ts:29](https://github.com/codeweb05/repo1/blob/ea19add/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L29)
+[strategies/redis/redis-cache-strategy.ts:29](https://github.com/codeweb05/repo1/blob/a4cf318/packages/cache/src/strategies/redis/redis-cache-strategy.ts#L29)

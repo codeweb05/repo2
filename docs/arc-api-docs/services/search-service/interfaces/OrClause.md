@@ -22,4 +22,4 @@
 
 #### Defined in
 
-[services/search-service/src/types.ts:80](https://github.com/codeweb05/repo1/blob/ea19add/services/search-service/src/types.ts#L80)
+[services/search-service/src/types.ts:80](https://github.com/codeweb05/repo1/blob/a4cf318/services/search-service/src/types.ts#L80)

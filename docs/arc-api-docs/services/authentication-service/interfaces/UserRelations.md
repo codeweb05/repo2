@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/models/user.model.ts:124](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/user.model.ts#L124)
+[services/authentication-service/src/models/user.model.ts:124](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/user.model.ts#L124)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/user.model.ts:123](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/user.model.ts#L123)
+[services/authentication-service/src/models/user.model.ts:123](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/user.model.ts#L123)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/models/user.model.ts:125](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/models/user.model.ts#L125)
+[services/authentication-service/src/models/user.model.ts:125](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/models/user.model.ts#L125)

@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[services/video-conferencing-service/src/enums/video-chat.enum.ts:36](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/enums/video-chat.enum.ts#L36)
+[services/video-conferencing-service/src/enums/video-chat.enum.ts:36](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/enums/video-chat.enum.ts#L36)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[services/video-conferencing-service/src/enums/video-chat.enum.ts:37](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/enums/video-chat.enum.ts#L37)
+[services/video-conferencing-service/src/enums/video-chat.enum.ts:37](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/enums/video-chat.enum.ts#L37)

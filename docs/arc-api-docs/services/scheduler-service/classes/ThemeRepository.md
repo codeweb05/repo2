@@ -50,7 +50,7 @@ DefaultUserModifyCrudRepository&lt;
 
 #### Defined in
 
-[services/scheduler-service/src/repositories/theme.repository.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/repositories/theme.repository.ts#L19)
+[services/scheduler-service/src/repositories/theme.repository.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/repositories/theme.repository.ts#L19)
 
 ## Properties
 
@@ -64,7 +64,7 @@ DefaultUserModifyCrudRepository.getCurrentUser
 
 #### Defined in
 
-[services/scheduler-service/src/repositories/theme.repository.ts:23](https://github.com/codeweb05/repo1/blob/ea19add/services/scheduler-service/src/repositories/theme.repository.ts#L23)
+[services/scheduler-service/src/repositories/theme.repository.ts:23](https://github.com/codeweb05/repo1/blob/a4cf318/services/scheduler-service/src/repositories/theme.repository.ts#L23)
 
 ## Methods
 

@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/components/bearer-verifier/keys.ts:10](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/components/bearer-verifier/keys.ts#L10)
+[src/components/bearer-verifier/keys.ts:10](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/components/bearer-verifier/keys.ts#L10)

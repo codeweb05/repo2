@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[services/feature-toggle-service/src/types.ts:9](https://github.com/codeweb05/repo1/blob/ea19add/services/feature-toggle-service/src/types.ts#L9)
+[services/feature-toggle-service/src/types.ts:9](https://github.com/codeweb05/repo1/blob/a4cf318/services/feature-toggle-service/src/types.ts#L9)
 
 ___
 

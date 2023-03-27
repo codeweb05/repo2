@@ -52,7 +52,7 @@ is false,
 
 #### Defined in
 
-[services/video-conferencing-service/src/types.ts:149](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/types.ts#L149)
+[services/video-conferencing-service/src/types.ts:149](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/types.ts#L149)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[services/video-conferencing-service/src/types.ts:150](https://github.com/codeweb05/repo1/blob/ea19add/services/video-conferencing-service/src/types.ts#L150)
+[services/video-conferencing-service/src/types.ts:150](https://github.com/codeweb05/repo1/blob/a4cf318/services/video-conferencing-service/src/types.ts#L150)

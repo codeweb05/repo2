@@ -36,7 +36,7 @@ Model.constructor
 
 #### Defined in
 
-[services/user-tenant-service/src/models/user-signup-check-dto.model.ts:15](https://github.com/codeweb05/repo1/blob/ea19add/services/user-tenant-service/src/models/user-signup-check-dto.model.ts#L15)
+[services/user-tenant-service/src/models/user-signup-check-dto.model.ts:15](https://github.com/codeweb05/repo1/blob/a4cf318/services/user-tenant-service/src/models/user-signup-check-dto.model.ts#L15)
 
 ## Properties
 
@@ -46,4 +46,4 @@ Model.constructor
 
 #### Defined in
 
-[services/user-tenant-service/src/models/user-signup-check-dto.model.ts:13](https://github.com/codeweb05/repo1/blob/ea19add/services/user-tenant-service/src/models/user-signup-check-dto.model.ts#L13)
+[services/user-tenant-service/src/models/user-signup-check-dto.model.ts:13](https://github.com/codeweb05/repo1/blob/a4cf318/services/user-tenant-service/src/models/user-signup-check-dto.model.ts#L13)

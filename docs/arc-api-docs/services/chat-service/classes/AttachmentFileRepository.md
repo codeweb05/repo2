@@ -54,7 +54,7 @@ DefaultUserModifyCrudRepository&lt;
 
 #### Defined in
 
-[services/chat-service/src/repositories/attachment.repository.ts:23](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/attachment.repository.ts#L23)
+[services/chat-service/src/repositories/attachment.repository.ts:23](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/attachment.repository.ts#L23)
 
 ## Properties
 
@@ -68,7 +68,7 @@ DefaultUserModifyCrudRepository.getCurrentUser
 
 #### Defined in
 
-[services/chat-service/src/repositories/attachment.repository.ts:26](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/attachment.repository.ts#L26)
+[services/chat-service/src/repositories/attachment.repository.ts:26](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/attachment.repository.ts#L26)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/repositories/attachment.repository.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/attachment.repository.ts#L19)
+[services/chat-service/src/repositories/attachment.repository.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/attachment.repository.ts#L19)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/repositories/attachment.repository.ts:30](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/repositories/attachment.repository.ts#L30)
+[services/chat-service/src/repositories/attachment.repository.ts:30](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/repositories/attachment.repository.ts#L30)
 
 ## Methods
 

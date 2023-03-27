@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[services/authentication-service/src/types.ts:46](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/types.ts#L46)
+[services/authentication-service/src/types.ts:46](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/types.ts#L46)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[services/authentication-service/src/types.ts:47](https://github.com/codeweb05/repo1/blob/ea19add/services/authentication-service/src/types.ts#L47)
+[services/authentication-service/src/types.ts:47](https://github.com/codeweb05/repo1/blob/a4cf318/services/authentication-service/src/types.ts#L47)

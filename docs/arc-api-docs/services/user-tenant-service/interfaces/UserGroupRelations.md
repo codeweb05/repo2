@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[services/user-tenant-service/src/models/user-group.model.ts:57](https://github.com/codeweb05/repo1/blob/ea19add/services/user-tenant-service/src/models/user-group.model.ts#L57)
+[services/user-tenant-service/src/models/user-group.model.ts:57](https://github.com/codeweb05/repo1/blob/a4cf318/services/user-tenant-service/src/models/user-group.model.ts#L57)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[services/user-tenant-service/src/models/user-group.model.ts:58](https://github.com/codeweb05/repo1/blob/ea19add/services/user-tenant-service/src/models/user-group.model.ts#L58)
+[services/user-tenant-service/src/models/user-group.model.ts:58](https://github.com/codeweb05/repo1/blob/a4cf318/services/user-tenant-service/src/models/user-group.model.ts#L58)

@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:77](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L77)
+[services/chat-service/src/models/message.model.ts:77](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L77)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:76](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L76)
+[services/chat-service/src/models/message.model.ts:76](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L76)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[services/chat-service/src/models/message.model.ts:78](https://github.com/codeweb05/repo1/blob/ea19add/services/chat-service/src/models/message.model.ts#L78)
+[services/chat-service/src/models/message.model.ts:78](https://github.com/codeweb05/repo1/blob/a4cf318/services/chat-service/src/models/message.model.ts#L78)

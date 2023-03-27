@@ -20,4 +20,4 @@ Binding keys used by this component.
 
 #### Defined in
 
-[src/components/logger-extension/keys.ts:19](https://github.com/codeweb05/repo1/blob/ea19add/packages/core/src/components/logger-extension/keys.ts#L19)
+[src/components/logger-extension/keys.ts:19](https://github.com/codeweb05/repo1/blob/a4cf318/packages/core/src/components/logger-extension/keys.ts#L19)
